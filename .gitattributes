@@ -1,1 +1,2 @@
+fakeceleb-1-preview.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
